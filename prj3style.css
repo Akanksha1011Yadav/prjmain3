@@ -5,9 +5,9 @@
     --text-sec: #aaaaaa;
     --btn-bg: #3a3a45;
     --btn-hover: #4a4a58;
-    --accent: #00dac5; /* Cyan for operators */
+    --accent: #00dac5; 
     --accent-hover: #00b3a1;
-    --equals-bg: #ff6f61; /* Coral for Equals */
+    --equals-bg: #ff6f61; 
     --equals-hover: #e05548;
 }
 
