@@ -11,9 +11,9 @@ This project is a fully functional web-based calculator built using HTML, CSS, a
 - **History View:** Shows the previous operand and current operator at the top of the display.
 
 ## How to Run
-1. Download `index.html`, `style.css`, and `script.js`.
+1. Download `prj3.html`, `prj3style.css`, and `script.js`.
 2. Place them in the same folder.
-3. Open `index.html` in any modern web browser.
+3. Open `prj3.html` in any modern web browser.
 
 ## Technologies Used
 - HTML5
